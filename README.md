@@ -30,7 +30,7 @@ D16 = Rendimento
 D17 = sugestaoInvest
 
 Tabela de Investimento Mensal
-D20 = investimento
+D20 = aborte
 D21 = qtdAnos
 D22 = taxaMensal
 D23 = patrimonio
